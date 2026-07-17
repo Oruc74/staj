@@ -1,0 +1,8 @@
+[2026-07-16 17:42:02,371] wikipedia_scraper - INFO - Sayfa çekiliyor: https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)
+[2026-07-16 17:42:03,070] wikipedia_scraper - INFO - Tablo bulundu. Toplam 240 satır (başlık dahil).
+[2026-07-16 17:43:21,085] wikipedia_scraper - INFO - Sayfa çekiliyor: https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)
+[2026-07-16 17:43:21,780] wikipedia_scraper - INFO - Tablo bulundu. Toplam 240 satır (başlık dahil).
+[2026-07-16 18:14:48,932] wikipedia_scraper - INFO - Sayfa çekiliyor: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_illeri
+[2026-07-16 18:14:49,553] wikipedia_scraper - INFO - Tablo bulundu. Toplam 82 satır (başlık dahil).
+[2026-07-16 19:00:42,612] wikipedia_scraper - INFO - Sayfa çekiliyor: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_illeri
+[2026-07-16 19:00:43,228] wikipedia_scraper - INFO - Tablo bulundu. Toplam 82 satır (başlık dahil).
