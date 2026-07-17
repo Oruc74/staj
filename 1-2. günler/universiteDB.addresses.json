@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "694945632459a4c5b8937fe5"
+  },
+  "city": "Sakarya",
+  "street": "Serdivan",
+  "user_id": 1
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "69493c0e2459a4c5b8937fdb"
+  },
+  "ad": "deneme",
+  "yas": 20
+},
+{
+  "_id": {
+    "$oid": "69493c792459a4c5b8937fdc"
+  },
+  "ad": "Ahmet",
+  "yas": 21,
+  "bolum": "Bilgisayar",
+  "aktif": true
+},
+{
+  "_id": {
+    "$oid": "69493cfe2459a4c5b8937fdd"
+  },
+  "ad": "samet",
+  "yas": 18,
+  "bolum": "Bilgisayar",
+  "aktif": true
+},
+{
+  "_id": {
+    "$oid": "69493cfe2459a4c5b8937fde"
+  },
+  "ad": "remzi",
+  "yas": 23,
+  "bolum": "Elektrik"
+},
+{
+  "_id": {
+    "$oid": "69493cfe2459a4c5b8937fdf"
+  },
+  "ad": "alperen",
+  "yas": 21,
+  "bolum": "Yazılım"
+},
+{
+  "_id": {
+    "$oid": "69493f652459a4c5b8937fe0"
+  },
+  "ad": "Elif",
+  "yas": 20,
+  "adres": {
+    "sehir": "Ankara",
+    "ilce": "Çankaya"
+  }
+},
+{
+  "_id": {
+    "$oid": "694940ac2459a4c5b8937fe1"
+  },
+  "ad": "sadık",
+  "yas": 24,
+  "notlar": [
+    85,
+    90,
+    100,
+    100
+  ]
+},
+{
+  "_id": {
+    "$oid": "694943bb2459a4c5b8937fe2"
+  },
+  "ad": "Can",
+  "adresId": 1
+}]
