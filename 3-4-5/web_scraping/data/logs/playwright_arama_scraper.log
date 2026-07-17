@@ -1,0 +1,35 @@
+[2026-07-16 18:46:28,871] playwright_arama_scraper - INFO - 🚀 Ana sayfaya gidiliyor...
+[2026-07-16 18:46:29,320] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'İstanbul'
+[2026-07-16 18:46:31,868] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_i̇stanbul_20260716_184631.png
+[2026-07-16 18:46:31,875] playwright_arama_scraper - INFO -   → 'İstanbul' için 11 öneri bulundu
+[2026-07-16 18:46:32,777] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Atatürk'
+[2026-07-16 18:47:02,781] playwright_arama_scraper - WARNING - [33m⏳ 'Atatürk' için öneri dropdown'u yüklenemedi[0m
+[2026-07-16 18:47:03,669] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Türk edebiyatı'
+[2026-07-16 18:47:33,684] playwright_arama_scraper - WARNING - [33m⏳ 'Türk edebiyatı' için öneri dropdown'u yüklenemedi[0m
+[2026-07-16 18:47:34,390] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Kapadokya'
+[2026-07-16 18:47:58,270] playwright_arama_scraper - ERROR - [31m'Kapadokya' işlenirken hata: Locator.click: Page crashed
+Call log:
+  - waiting for locator("#searchInput")
+
+[2026-07-16 18:47:59,082] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Orhan Pamuk'
+[2026-07-16 18:47:59,085] playwright_arama_scraper - ERROR - [31m'Orhan Pamuk' işlenirken hata: Locator.click: Target crashed 
+Call log:
+  - waiting for locator("#searchInput")
+
+[2026-07-16 18:48:00,056] playwright_arama_scraper - INFO - 🔒 Tarayıcı kapatıldı
+[2026-07-16 18:48:42,835] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'İstanbul'
+[2026-07-16 18:48:45,832] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_i̇stanbul_20260716_184845.png
+[2026-07-16 18:48:45,837] playwright_arama_scraper - INFO -   → 'İstanbul' için 11 öneri bulundu
+[2026-07-16 18:48:46,593] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Atatürk'
+[2026-07-16 18:48:48,086] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_atatürk_20260716_184847.png
+[2026-07-16 18:48:48,094] playwright_arama_scraper - INFO -   → 'Atatürk' için 11 öneri bulundu
+[2026-07-16 18:48:48,904] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Türk edebiyatı'
+[2026-07-16 18:48:50,680] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_türk_edebiyatı_20260716_184850.png
+[2026-07-16 18:48:50,685] playwright_arama_scraper - INFO -   → 'Türk edebiyatı' için 11 öneri bulundu
+[2026-07-16 18:48:51,689] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Kapadokya'
+[2026-07-16 18:48:53,150] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_kapadokya_20260716_184853.png
+[2026-07-16 18:48:53,155] playwright_arama_scraper - INFO -   → 'Kapadokya' için 11 öneri bulundu
+[2026-07-16 18:48:54,243] playwright_arama_scraper - INFO - 🔤 Aranıyor: 'Orhan Pamuk'
+[2026-07-16 18:48:55,860] playwright_arama_scraper - INFO - 📸 Ekran görüntüsü kaydedildi: C:\Users\orucs\OneDrive\Desktop\staj\3-4-5\web_scraping\03_playwright\..\data\screenshots\arama_orhan_pamuk_20260716_184855.png
+[2026-07-16 18:48:55,866] playwright_arama_scraper - INFO -   → 'Orhan Pamuk' için 4 öneri bulundu
+[2026-07-16 18:48:58,498] playwright_arama_scraper - INFO - 🔒 Tarayıcı kapatıldı

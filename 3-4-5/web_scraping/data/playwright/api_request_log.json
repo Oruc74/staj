@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "scrape_date": "2026-07-16T18:50:33.687953",
+    "total_items": 11,
+    "source": "api_request_log"
+  },
+  "data": [
+    {
+      "url": "https://tr.wikipedia.org/w/api.php?action=cirrus-config-dump&format=json&formatversion=2&prop=usertesting",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "xhr",
+      "timestamp": "2026-07-16T18:50:23.140897"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=%C4%B0stanbu&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:23.419812"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=%C4%B0stanbul&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:23.421811"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=Atat%C3%BCrk&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:25.520779"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=T&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:27.094347"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=T%C3%BCrk+edebiyat&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:28.055529"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=T%C3%BCrk+edebiyat%C4%B1&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:28.199742"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=K&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:29.485156"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=Kapadokya&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:30.125114"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=O&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:31.479264"
+    },
+    {
+      "url": "https://tr.wikipedia.org/w/rest.php/v1/search/title?q=Orhan+Pamuk&limit=10",
+      "status": 200,
+      "method": "GET",
+      "resource_type": "fetch",
+      "timestamp": "2026-07-16T18:50:32.353278"
+    }
+  ]
+}
