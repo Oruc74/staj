@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "scrape_date": "2026-07-16T18:37:45.773123",
+    "total_items": 51,
+    "source": "wikipedia_arama_api"
+  },
+  "data": [
+    {
+      "sorgu": "İstanbul",
+      "baslik": "İstanbul",
+      "aciklama": "Türkiye'nin ve Avrupa'nın en kalabalık şehri",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İstanbul",
+      "baslik": "İstanbul Üniversitesi",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İstanbul",
+      "baslik": "İstanbul'un Fethi",
+      "aciklama": "Osmanlı'nın Bizans başkentini alması (1453)",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İstanbul",
+      "baslik": "İstanbul Havalimanı",
+      "aciklama": "İstanbul'da bulunan uluslararası bir havalimanı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İstanbul",
+      "baslik": "İstanbul Başakşehir FK",
+      "aciklama": "Türk futbol kulübü",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Atatürk",
+      "baslik": "Mustafa Kemal Atatürk",
+      "aciklama": "Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Atatürk",
+      "baslik": "Atatürk Havalimanı",
+      "aciklama": "Türkiye'nin İstanbul ilindeki uluslararası bir havalimanı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Atatürk",
+      "baslik": "Atatürk Olimpiyat Stadyumu",
+      "aciklama": "İstanbul'da bir stadyum",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Atatürk",
+      "baslik": "Atatürk Havalimanı saldırısı",
+      "aciklama": "28 Haziran 2016'da IŞİD tarafından gerçekleştirilen terör saldırısı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Atatürk",
+      "baslik": "Atatürk İlkeleri",
+      "aciklama": "Atatürk'ün politikalarını belirleyen altı ilke",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk edebiyatı",
+      "baslik": "Türk edebiyatı",
+      "aciklama": "Türkçe yazılmış edebî eserler",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk edebiyatı",
+      "baslik": "Türk edebiyatında hikâye",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk edebiyatı",
+      "baslik": "Türk edebiyatında şiir",
+      "aciklama": "Türk edebiyatındaki şiir türündeki eserler",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk edebiyatı",
+      "baslik": "Türk edebiyatında roman",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk edebiyatı",
+      "baslik": "Türk edebiyatında LGBT temaları",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Yapay zeka",
+      "baslik": "Yapay zekâ",
+      "aciklama": "İnsani zekaya sahip makine ve yazılım geliştiren bilgisayar bilimleri dalı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Yapay zeka",
+      "baslik": "Yapay zekâ felsefesi",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Yapay zeka",
+      "baslik": "Yapay zekâ güvenliği",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Yapay zeka",
+      "baslik": "Yapay zekâ patlaması",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Yapay zeka",
+      "baslik": "Yapay Zeka (film)",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Osmanlı İmparatorluğu",
+      "baslik": "Osmanlı İmparatorluğu",
+      "aciklama": "çok uluslu monarşi (1299–1922)",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Osmanlı İmparatorluğu",
+      "baslik": "Osmanlı İmparatorluğu yükselme dönemi",
+      "aciklama": "Osmanlı İmparatorluğu'nun altın çağı olarak kabul edilen tarihî dönem (1453–1683)",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Osmanlı İmparatorluğu",
+      "baslik": "Osmanlı İmparatorluğu tarihi",
+      "aciklama": "Osmanlı İmparatorluğu'nun tarihi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Osmanlı İmparatorluğu",
+      "baslik": "Osmanlı İmparatorluğu'nda kölelik",
+      "aciklama": "Osmanlı ekonomisinde ve toplumunda insan köleliği",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Osmanlı İmparatorluğu",
+      "baslik": "Osmanlı İmparatorluğu'nda eğitim",
+      "aciklama": "Osmanlı Devleti'nde eğitim sistemi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Nazım Hikmet",
+      "baslik": "Nâzım Hikmet",
+      "aciklama": "Türk şair ve yazar (1902–1963)",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Nazım Hikmet",
+      "baslik": "Nazım Hikmet Ran (İzmir Tramvayı)",
+      "aciklama": "İzmir Tramvayı istasyonu",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Nazım Hikmet",
+      "baslik": "Nazım Hikmet Kültürevi",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Nazım Hikmet",
+      "baslik": "Nazım Hikmet Korosu",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Nazım Hikmet",
+      "baslik": "Nâzım Hikmet'in \"Memleketimden İnsan Manzaraları\"ndan Onbir Tablo (oyun)",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Boğaziçi Üniversitesi",
+      "baslik": "Boğaziçi Üniversitesi",
+      "aciklama": "İstanbul'da kurulu devlet üniversitesi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Boğaziçi Üniversitesi",
+      "baslik": "Boğaziçi Üniversitesi Sinema Kulübü",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Boğaziçi Üniversitesi",
+      "baslik": "Boğaziçi Üniversitesi Albert Long Hall Kültür Merkezi",
+      "aciklama": "Beşiktaş'ta tarihi bina",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Boğaziçi Üniversitesi",
+      "baslik": "Boğaziçi Üniversitesi/Hisarüstü (İstanbul Metrosu)",
+      "aciklama": "İstanbul metrosu istasyonu",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Boğaziçi Üniversitesi",
+      "baslik": "Boğaziçi Üniversitesi Mezunlar Derneği",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Kapadokya",
+      "baslik": "Kapadokya",
+      "aciklama": "Türkiye'de bulunan turistik bir bölge",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Kapadokya",
+      "baslik": "Kapadokya Üniversitesi",
+      "aciklama": "Nevşehir'de kurulu devlet üniversitesi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Kapadokya",
+      "baslik": "Kapadokya'da çekilen filmler listesi",
+      "aciklama": "Vikimedya liste maddesi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Kapadokya",
+      "baslik": "Kapadokya Rumcası",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Kapadokya",
+      "baslik": "Kapadokya (eyalet)",
+      "aciklama": "Anadolu'da bir Roma İmparatorluğu eyaleti, başkenti Caesarea (Kayseri)",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Orhan Pamuk",
+      "baslik": "Orhan Pamuk",
+      "aciklama": "Nobel ödüllü Türk roman yazarı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Orhan Pamuk",
+      "baslik": "Orhan Pamuk'un diğer dillerde yayımlanmış eserleri",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Orhan Pamuk",
+      "baslik": "Osman Pamukoğlu",
+      "aciklama": "Türk asker, yazar ve siyasetçi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk mutfağı",
+      "baslik": "Türk mutfağı",
+      "aciklama": "Türk gastronomi geleneğine dahil bütün yiyecek ve içecekler",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk mutfağı",
+      "baslik": "Türk mutfağındaki köfteler",
+      "aciklama": "Türk mutfağındaki köfte çeşitleri",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "Türk mutfağı",
+      "baslik": "Türk Mutfağı (yemek kitabı)",
+      "aciklama": "",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İzmir",
+      "baslik": "İzmir",
+      "aciklama": "İzmir ilinin merkezi olan şehir",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İzmir",
+      "baslik": "İzmir'in ilçeleri",
+      "aciklama": "Vikimedya liste maddesi",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İzmir",
+      "baslik": "İzmir (il)",
+      "aciklama": "Türkiye'nin Ege Bölgesi'nde bir il",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İzmir",
+      "baslik": "İzmir Suikastı",
+      "aciklama": "Atatürk'ün hedeflendiği 1926 tarihli suikast planı",
+      "yontem": "API"
+    },
+    {
+      "sorgu": "İzmir",
+      "baslik": "İzmir'de 2024 Türkiye yerel seçimleri",
+      "aciklama": "İzmir'de 2024'te yapılan seçim",
+      "yontem": "API"
+    }
+  ]
+}

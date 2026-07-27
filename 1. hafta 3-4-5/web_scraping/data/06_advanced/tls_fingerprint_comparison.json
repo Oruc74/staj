@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "scrape_date": "2026-07-16T17:57:04.571151",
+    "total_items": 2,
+    "source": "tls_fingerprint_comparison"
+  },
+  "data": [
+    {
+      "method": "requests (Python/urllib3)",
+      "ja3_hash": "a48c0d5f95b1ef98f560f324fd275da1",
+      "ja3_text": "771,4866-4867-4865-49196-49200-49195-49199-52393-52392-49188-49192-49187-49191-159-158-107-103-255,0-11-10-16-22-23-49-13-43-45-51-21,29-23-30-25-24-256-257-258-259-260,0-1-2",
+      "ja4": "t13d1812h1_85036bcba153_b26ce05bbdd6",
+      "akamai_hash": "",
+      "akamai_text": "",
+      "tls_version": "N/A",
+      "cipher_suite": "N/A",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "protocol": "N/A"
+    },
+    {
+      "method": "curl_cffi (Chrome impersonate)",
+      "ja3_hash": "83086328d0c57a01c7b5cda844496d1f",
+      "ja3_text": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,45-65037-11-13-18-23-10-27-43-65281-16-51-35-17613-5-0,4588-29-23-24,0",
+      "ja4": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "akamai_hash": "52d84b11737d980aef856699f885ca86",
+      "akamai_text": "1:65536;2:0;4:6291456;6:262144|15663105|0|m,a,s,p",
+      "tls_version": "N/A",
+      "cipher_suite": "N/A",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "protocol": "N/A"
+    }
+  ]
+}

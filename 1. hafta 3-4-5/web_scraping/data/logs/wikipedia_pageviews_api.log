@@ -1,0 +1,16 @@
+[2026-07-16 18:34:55,897] wikipedia_pageviews_api - INFO - 📡 En çok okunanlar çekiliyor: https://wikimedia.org/api/rest_v1/metrics/pageviews/top/tr.wikipedia/all-access/2026/07/14
+[2026-07-16 18:34:56,886] wikipedia_pageviews_api - INFO - ✅ 993 sayfa alındı, filtreleme sonrası 30 makale kullanılacak (2026/07/14)
+[2026-07-16 18:34:56,887] wikipedia_pageviews_api - INFO - 
+[33m🐢 SIRALI (Sequential) çekme başlatılıyor...[0m
+[2026-07-16 18:35:02,732] wikipedia_pageviews_api - INFO -   📊 İlerleme: 10/30
+[2026-07-16 18:35:08,303] wikipedia_pageviews_api - INFO -   📊 İlerleme: 20/30
+[2026-07-16 18:35:11,512] wikipedia_pageviews_api - WARNING - ⚠️ wiki.phtml çekilemedi: 404 Client Error: Not Found for url: https://tr.wikipedia.org/api/rest_v1/page/summary/wiki.phtml
+[2026-07-16 18:35:17,074] wikipedia_pageviews_api - INFO -   📊 İlerleme: 30/30
+[2026-07-16 18:35:17,302] wikipedia_pageviews_api - INFO -   ✅ Sıralı çekme tamamlandı: 29 sayfa, 20.42 saniye
+[2026-07-16 18:35:19,574] wikipedia_pageviews_api - INFO - 
+[32m🚀 EŞZAMANLI (Concurrent) çekme başlatılıyor (10 thread)...[0m
+[2026-07-16 18:35:20,373] wikipedia_pageviews_api - INFO -   📊 İlerleme: 10/30
+[2026-07-16 18:35:21,503] wikipedia_pageviews_api - INFO -   📊 İlerleme: 20/30
+[2026-07-16 18:35:22,302] wikipedia_pageviews_api - WARNING - ⚠️ wiki.phtml çekilemedi: 404 Client Error: Not Found for url: https://tr.wikipedia.org/api/rest_v1/page/summary/wiki.phtml
+[2026-07-16 18:35:22,304] wikipedia_pageviews_api - INFO -   📊 İlerleme: 30/30
+[2026-07-16 18:35:22,305] wikipedia_pageviews_api - INFO -   ✅ Eşzamanlı çekme tamamlandı: 29 sayfa, 2.73 saniye

@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "scrape_date": "2026-07-16T18:32:38.335238",
+    "total_items": 33,
+    "source": "async_romanlar"
+  },
+  "data": [
+    {
+      "baslik": "Barbarın Kahkahası",
+      "yazar": "Sema Kaygusuz",
+      "yayim_yili": "Mayıs 2015",
+      "yayimci": "Metis Yayınları"
+    },
+    {
+      "baslik": "Başın Öne Eğilmesin",
+      "yazar": "Hıfzı Topuz",
+      "yayim_yili": "Eylül 2006",
+      "yayimci": "Remzi Kitabevi"
+    },
+    {
+      "baslik": "Biz İnsanlar",
+      "yazar": "Peyami Safa",
+      "yayim_yili": "1937 (tefrika)1959 (ilk basım)",
+      "yayimci": "İnkılap Kitabevi"
+    },
+    {
+      "baslik": "Cemo",
+      "yazar": "Kemal Bilbaşar",
+      "yayim_yili": "1966",
+      "yayimci": "Tekin YayınlarıCan Yayınları"
+    },
+    {
+      "baslik": "Çanakkale Mahşeri",
+      "yazar": "Mehmet Niyazi Özdemir",
+      "yayim_yili": "1998",
+      "yayimci": "Ötüken Neşriyat"
+    },
+    {
+      "baslik": "Deli Kurt",
+      "yazar": "Hüseyin Nihal Atsız",
+      "yayim_yili": "1958 (özgün)1958 (Türkçe)",
+      "yayimci": "Ötüken Neşriyat"
+    },
+    {
+      "baslik": "Deliduman",
+      "yazar": "Emrah Serbes",
+      "yayim_yili": "Haziran 2014",
+      "yayimci": "İletişim Yayınları"
+    },
+    {
+      "baslik": "Dünya Döner Renkler Kalır",
+      "yazar": "Belgin Bıyıkoğlu",
+      "yayim_yili": "Ekim 2021",
+      "yayimci": "Destek Yayınları"
+    },
+    {
+      "baslik": "Dünyanın En Pis Sokağı",
+      "yazar": "Tarık Buğra",
+      "yayim_yili": "1989, İstanbul",
+      "yayimci": "Ötüken Yayınları"
+    },
+    {
+      "baslik": "Düşler ve Gerçekler",
+      "yazar": "Celal Pamukçu",
+      "yayim_yili": "2007",
+      "yayimci": "Boyut Yayın Grubu"
+    },
+    {
+      "baslik": "Gazi Paşa",
+      "yazar": "Attilâ İlhan",
+      "yayim_yili": "2006",
+      "yayimci": "Türkiye İş Bankası Kültür Yayınları"
+    },
+    {
+      "baslik": "General Uçtu",
+      "yazar": "Mehmet Zaman Saçlıoğlu",
+      "yayim_yili": "Ocak 2014",
+      "yayimci": "İş Bankası Kültür Yayınları"
+    },
+    {
+      "baslik": "Gönül Hanım",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Gözüm Yaşı Tuna Selidir Şimdi",
+      "yazar": "Selma Fındıklı",
+      "yayim_yili": "1997",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Halkalı Köle",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "İçi Yoksul",
+      "yazar": "Tahir Musa Ceylan",
+      "yayim_yili": "2005",
+      "yayimci": "Merkez Kitaplar"
+    },
+    {
+      "baslik": "İkra",
+      "yazar": "Murat Serdar Arslantürk",
+      "yayim_yili": "(özgün)Eylül 2012 (Türkçe)",
+      "yayimci": "Arunas Yayınları"
+    },
+    {
+      "baslik": "Kahramanlar Doğmalıydı",
+      "yazar": "Şevket Süreyya Aydemir",
+      "yayim_yili": "1974",
+      "yayimci": "Çağdaş Yayınları"
+    },
+    {
+      "baslik": "Kurtlar Sofrası",
+      "yazar": "Attilâ İlhan",
+      "yayim_yili": "1963",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Küçük Paşa",
+      "yazar": "Ebubekir Hâzım Tepeyran",
+      "yayim_yili": "2020 (özgün)1910 (Türkçe)",
+      "yayimci": "Türkiye İş Bankası Kültür Yayınları"
+    },
+    {
+      "baslik": "Minare Gölgesi",
+      "yazar": "Engin Ergönültaş",
+      "yayim_yili": "2013",
+      "yayimci": "İletişim Yayınları"
+    },
+    {
+      "baslik": "Onuncu Köy",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Ölümü Bekleyen Kent",
+      "yazar": "Yıldırım Keskin",
+      "yayim_yili": "",
+      "yayimci": "Bilgi Yayınevi"
+    },
+    {
+      "baslik": "Sırrımsın Sırdaşımsın",
+      "yazar": "Kâmuran Şipal",
+      "yayim_yili": "Şubat 2010 (İlk basım)",
+      "yayimci": "Yapı Kredi Yayınları"
+    },
+    {
+      "baslik": "Tatlı Betüş",
+      "yazar": "Aziz Nesin",
+      "yayim_yili": "1974",
+      "yayimci": "Tekin Yayınevi (ilk basım)"
+    },
+    {
+      "baslik": "Toprak Uyanırsa",
+      "yazar": "Şevket Süreyya Aydemir",
+      "yayim_yili": "1963",
+      "yayimci": "Remzi Kitabevi"
+    },
+    {
+      "baslik": "Türk edebiyatında roman",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Uzay Çiftçileri",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Üç İstanbul",
+      "yazar": "Mithat Cemal Kuntay",
+      "yayim_yili": "1938",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Üç Kağıtçı",
+      "yazar": "",
+      "yayim_yili": "",
+      "yayimci": ""
+    },
+    {
+      "baslik": "Yaraya Tuz Basmak",
+      "yazar": "Atilla İlhan",
+      "yayim_yili": "1978",
+      "yayimci": "Bilgi Yayınevi"
+    },
+    {
+      "baslik": "Yılkı Atı",
+      "yazar": "Abbas Sayar",
+      "yayim_yili": "1970",
+      "yayimci": "Ötüken Neşriyat"
+    },
+    {
+      "baslik": "Zahit",
+      "yazar": "Hasan Özkılıç",
+      "yayim_yili": "Kasım 2012",
+      "yayimci": "Can Yayınları"
+    }
+  ]
+}
