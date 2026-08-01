@@ -26,9 +26,26 @@ LLM mimarilerine kadar mantıklı bir çizgi izlenmiş olur. 9 numaralı noteboo
 anlatılan Transformer bileşenlerinin kod karşılığıdır — 6'yı okuduktan sonra notebook'u
 çalıştırmak en anlaşılır sırasıdır.
 
+## Gereksinimler
+
+Markdown dosyaları (1-8) için hiçbir kurulum gerekmez, doğrudan okunabilir.
+Sadece **9 numaralı notebook** çalıştırılabilir kod içeriyor:
+
+```powershell
+pip install torch
+```
+
+## Nasıl Çalıştırılır
+
+```powershell
+jupyter notebook "09_attention_transformer_uygulamasi.ipynb"
+```
+
+veya VS Code'da dosyayı açıp hücreleri sırayla çalıştır (Jupyter eklentisi kurulu olmalı).
+
 ## İlgili Diğer Çalışma
 
 Bu klasörün dışında, aynı hafta kapsamında ayrı bir alıştırma olarak
-[`../pytorch_tensor_egzersiz/tensor_reshape.ipynb`](../pytorch_tensor_egzersiz/tensor_reshape.ipynb)
+[`../2. hafta 5/tensor_reshape.ipynb`](../2.%20hafta%205/tensor_reshape.ipynb)
 dosyası da hazırlandı — `view`/`reshape`/`contiguous` kavramlarını işleyen bu alıştırma,
 9 numaralı notebook'taki tensör manipülasyonlarının ön hazırlığı niteliğindedir.
