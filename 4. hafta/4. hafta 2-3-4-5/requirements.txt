@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+requests
+chromadb
+google-genai
+python-dotenv
+fastapi
+uvicorn[standard]
+streamlit
